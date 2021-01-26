@@ -1,0 +1,11 @@
+body{
+    font-family: 700'Poppins', sans-serif;
+    color: rgba(red, green, blue, alpha);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1em;
+    margin-top:20% ;
+    background-image: linear-gradient(to right, red, yellow);
+    font-size: 30px;
+}
+
